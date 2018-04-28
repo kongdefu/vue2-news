@@ -12,7 +12,7 @@ vue2-news 是一个仿今日头条移动端的项目，共4个页面，涉及文
 
 ## 注意
 
-> 1、本地运行项目请把项目里的mint-ui.common.js文件替换掉 node_modules/minit-ui/lib/mint-ui.common.js文件。主要优化下拉动作和左右滑动的体验。详细查看文章 [饿了么mint-ui库loadmore组件的下拉问题](http://liansixin.win/2017/08/01/mint-ui/)
+> 1、本地运行项目请把项目里的mint-ui.common.js文件替换掉 node_modules/minit-ui/lib/mint-ui.common.js文件。主要优化下拉动作和左右滑动的体验。
 
 > 2、下载App安装包请使用手机浏览器下载。
 
@@ -36,11 +36,11 @@ vue2-news 是一个仿今日头条移动端的项目，共4个页面，涉及文
 
 - 首页、详情页
 
-<img src="https://github.com/uncleLian/vue2-news/raw/master/screenshots/web_index.png" width="365" height="619"/> <img src="https://github.com/uncleLian/vue2-news/raw/master/screenshots/web_detail.png" width="365" height="619"/>
+<img src="https://github.com/kongdefu/vue2-news/raw/master/screenshots/web_index.png" width="365" height="619"/> <img src="https://github.com/kongdefu/vue2-news/raw/master/screenshots/web_detail.png" width="365" height="619"/>
 
 - 搜索页
 
-<img src="https://github.com/uncleLian/vue2-news/raw/master/screenshots/web_search.png" width="365" height="619"/> <img src="https://github.com/uncleLian/vue2-news/raw/master/screenshots/web_search2.png" width="365" height="619"/>
+<img src="https://github.com/kongdefu/vue2-news/raw/master/screenshots/web_search.png" width="365" height="619"/> <img src="https://github.com/kongdefu/vue2-news/raw/master/screenshots/web_search2.png" width="365" height="619"/>
 
 
 
